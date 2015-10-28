@@ -1,0 +1,1 @@
+<b><font size='4'>本项目发布页已迁移至github：<a href='https://github.com/comeforu2012/truth/wiki/ChromePlus'>https://github.com/comeforu2012/truth/wiki/ChromePlus</a></font></b>

@@ -1,0 +1,2 @@
+<li>我分享的Chrome+翻墙浏览器从6月15日的版本开始在压缩包内添加了通道检测器GoGo，它的使用方法在压缩包内“不能用了怎么办.rtf”那个文件里面，XP系统用户使用这个软件需要安装.NET Framework 2.0。<br>
+<li>此GoGo的官网地址：<a href='https://code.google.com/p/gogo-tester/'>https://code.google.com/p/gogo-tester/</a>

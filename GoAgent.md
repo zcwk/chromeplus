@@ -1,0 +1,1 @@
+<font color='#3366ff' size='3'><b>GoAgent</b></font><li><font color='#3366ff'>GoAgent是使用Python和Google App EngineSDK编写的免费代理软件。程序可以在几乎所有主流系统上使用。GoAgent在和GAE搭配使用的时候，出口IP地址使用的是美国加州山景城Google数据中心IP段。</font></li><br><font color='#333399' size='3'><b>安全性</b></font><li><font color='#3366ff'>GoAgent现在默认使用HTTPS加密连接。</font></li><br><br>
